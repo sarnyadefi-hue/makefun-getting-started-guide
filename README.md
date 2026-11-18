@@ -21,6 +21,7 @@ This guide walks the whole loop once, slowly: account, first bounty, build, subm
 
 - [How a bounty works](#how-a-bounty-works)
 - [What you need](#what-you-need)
+- [Your first hour, as a checklist](#your-first-hour-as-a-checklist)
 - [1. Create your account](#1-create-your-account)
 - [2. Pick a bounty you can actually finish](#2-pick-a-bounty-you-can-actually-finish)
 - [3. Download the kit and read its RULES](#3-download-the-kit-and-read-its-rules)
@@ -61,6 +62,16 @@ Two ideas run through the whole site, and both are worth understanding before yo
    repository. Link it on your make.fun profile so the repository counts as yours.
 
 No entry fee. Bounties on make.fun cost nothing to enter.
+
+## Your first hour, as a checklist
+
+- [ ] Sign up (the referral link at the top of this guide) and open your profile.
+- [ ] Link GitHub on your profile if you signed in another way — repository bounties need it.
+- [ ] Read one bounty's RULES.txt end to end before writing a single line.
+- [ ] Download its kit and run the CLI's `--help` so the commands are familiar.
+- [ ] Start a fresh agent session *after* the bounty opened, and write a first version.
+- [ ] Run the kit's `check` on that first version, fix what it names, then submit.
+- [ ] Note your submission id and watch the entry's status until it is checked.
 
 ## 1. Create your account
 
@@ -152,6 +163,9 @@ If this guide helped you, the kindest return is using the link at the top:
   place, and the top of the board is competitive.
 - What you control: picking a finishable task, reading the rules, building in recorded
   sessions, checking early, and iterating on what the checks and the board tell you.
+- Referral credit is verified, not instant. A signup counts only once the house's
+  referral check has verified it — each one sits in a review hold of about a day first —
+  so a quiet first day on the board does not mean a link is broken.
 - What you do not control: the rest of the field. Enter bounties whose task you would
   enjoy finishing anyway, and treat prizes as upside.
 
